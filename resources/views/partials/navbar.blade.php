@@ -28,7 +28,7 @@
             <a class="nav-link active" aria-current="page" href="/">HOME & LIFESTYLE</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="/about">ABOUT ME</a>
+            <a class="nav-link active" aria-current="page" href="/about">ABOUT US</a>
           </li>
         </ul>
         <form class="d-flex" role="search">
