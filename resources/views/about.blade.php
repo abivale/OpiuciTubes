@@ -1,14 +1,37 @@
 @extends('layouts.main')
 
 @section('container')
-    <h1>Ini Halaman About </h1>
-    <br>
-    <h3>Abizar</h3>
-    <p>abizar@gmail.com</p>
-    <img src="" alt="" width="200">
 
-
-    <h3>Yoghi</h3>
-    <p>Yoghi@gmail.com</p>
-    <img src="" alt="" width="200">
+<H1 class="row justify-content-center">Opiuci Team</H1>
+<div class="container m-2">
+    <div class="row">
+        <div class="card col-ms-4" style="width: 15rem;">
+            <img src="img/yyy.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <p class="card-text">Abizar<br>203040086</p>
+          </div>
+          </div>
+          
+          <div class="card col-ms-4" style="width: 15rem;">
+              <img src="img/yyy.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <p class="card-text">Yoghi<br>20304008</p>
+              </div>
+          </div>
+          
+          <div class="card col-ms-4" style="width: 15rem;">
+              <img src="img/yyy.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <p class="card-text">Abizar<br>203040086</p>
+              </div>
+          </div>
+          
+          <div class="card col-ms-4" style="width: 15rem;">
+              <img src="img/yyy.jpg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <p class="card-text">Abizar<br>203040086</p>
+              </div>
+          </div>
+    </div>
+</div>
 @endsection
