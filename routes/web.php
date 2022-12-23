@@ -59,6 +59,12 @@ Route::get('/anak', function () {
     ]);
 });
 
+Route::get('/cewebaju', function () {
+    return view('cewebaju', [
+        "title" => "Baju"
+    ]);
+});
+
 
 Route::get('/posts', [PostController::class, 'index']);
 

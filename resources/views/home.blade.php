@@ -54,7 +54,8 @@
 </a>
  
 </div>
-    <h1 class="row justify-content-center">Produk Populer</h1>
+<p>
+    <h1>Everything for clothes</h1>
     <div class="row">
  
       <div class="col-md-4 col-sm-12 mb-3">
@@ -62,12 +63,16 @@
           <img src="img/yyy.jpg" class="card-img-top" alt="...">
      
           <div class="card-body">
-            <div class="card-title"><h4>Sepatu</h4></div>
-            Rp.800.000
+            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">Shop Wnomen's</a>
           </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-6 mb-3">
+        <div class="card">
+          <img src="img/yyy.jpg" class="card-img-top" alt="...">
      
-          <div class="card-footer">
-            <a href="/pria" class="card-link">Lihat</a>
+          <div class="card-body">
+            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">Shop Men's</a>
           </div>
         </div>
       </div>
@@ -77,27 +82,7 @@
           <img src="img/yyy.jpg" class="card-img-top" alt="...">
      
           <div class="card-body">
-            <div class="card-title"><h4>Baju</h4></div>
-            Rp.800.000
-          </div>
-     
-          <div class="card-footer">
-            <a href="/pria" class="card-link">Lihat</a>
-          </div>
-        </div>
-      </div>
-     
-      <div class="col-md-4 col-sm-6 mb-3">
-        <div class="card">
-          <img src="img/yyy.jpg" class="card-img-top" alt="...">
-     
-          <div class="card-body">
-            <div class="card-title"><h4>Celana</h4></div>
-            Rp.800.000
-          </div>
-     
-          <div class="card-footer">
-            <a href="/wanita" class="card-link">Lihat</a>
+            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">Shop Kids'</a>
           </div>
         </div>
       </div>
