@@ -1,48 +1,39 @@
-<nav class="navbar navbar-drak-lg bg-secondary">
-    <div class="container">
-      <a class="navbar-brand nav-link active" href="/">OPIUCI</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="/wanita">WANITA</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="/pria">PRIA</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Category
-            </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Baju</a></li>
-              <li><a class="dropdown-item" href="#">Celana</a></li>
-              <li><a class="dropdown-item" href="#">Sepatu</a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#">Semua Category</a></li>
-            </ul>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="/">HOME & LIFESTYLE</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="/about">ABOUT US</a>
-          </li>
-        </ul>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
-
-        <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
-            <a href="/login" class="nav-link"><i class="bi bi-person-fill"></i> Login</a>
-          </li>
-        </ul>
-
-
-      </div>
+<nav class="navbar navbar-expand-lg bg-black text-light">
+  <div class="container-fluid">
+    <a class="navbar-brand text-white" href="/">Opiuci</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active text-white" aria-current="page" href="/">Home</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-white" href="/" role="button" data-bs-toggle="dropdown">
+            Category
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item text-drak" href="/wanita">Women</a></li>
+            <li><a class="dropdown-item text-drak" href="/pria">Men</a></li>
+            <li><a class="dropdown-item text-drak" href="/">Kids</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active text-white" aria-current="page" href="/about">About Us</a>
+        </li>
+      </ul>
+      <ul class="navbar-nav ">
+        <li class="nav-item text-white">
+          <a href="/login" class="nav-link text-white"><i class="bi bi-person-fill"></i> Login</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-black text-dark bg-white" type="submit">Search</button>
+      </form>
     </div>
-  </nav>
+  </div>
+</nav>
+
+  

@@ -53,6 +53,12 @@ Route::get('/wanita', function () {
     ]);
 });
 
+Route::get('/anak', function () {
+    return view('anak', [
+        "title" => "Kids"
+    ]);
+});
+
 
 Route::get('/posts', [PostController::class, 'index']);
 
