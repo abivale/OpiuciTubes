@@ -1,6 +1,6 @@
 <div class="row d-flex flex-column h-100">  
       <footer class="w-100 py-4 flex-shrink-0">
-        <div class="container py-5">
+        <div class="py-5">
             <div class="row gy-4 gx-5" style="background-color: black">
                 <div class="col-lg-4 col-md-6">
                     <h5 class="h1 text-white">Opiuci.</h5>
