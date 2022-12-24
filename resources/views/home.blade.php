@@ -10,21 +10,21 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
-      <img src="img/yyy.jpg" class="d-block w-100" alt="...">
+      <img src="img/speed.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
+        <h5>Men's</h5>
         <p>Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" data-bs-interval="2000">
-      <img src="img/yyy.jpg" class="d-block w-100" alt="...">
+      <img src="img/speed.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
         <p>Some representative placeholder content for the second slide.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="img/yyy.jpg" class="d-block w-100" alt="...">
+      <img src="img/speed.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>
         <p>Some representative placeholder content for the third slide.</p>
@@ -63,7 +63,7 @@
           <img src="img/yyy.jpg" class="card-img-top" alt="...">
      
           <div class="card-body">
-            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">Shop Wnomen's</a>
+            <a href="wanita" style="background-color: black" class="btn btn-secondary btn-block">Shop Wnomen's</a>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
           <img src="img/yyy.jpg" class="card-img-top" alt="...">
      
           <div class="card-body">
-            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">Shop Men's</a>
+            <a href="pria" style="background-color: black" class="btn btn-secondary btn-block">Shop Men's</a>
           </div>
         </div>
       </div>
@@ -82,7 +82,7 @@
           <img src="img/yyy.jpg" class="card-img-top" alt="...">
      
           <div class="card-body">
-            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">Shop Kids'</a>
+            <a href="anak" style="background-color: black" class="btn btn-secondary btn-block">Shop Kids'</a>
           </div>
         </div>
       </div>
