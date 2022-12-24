@@ -65,6 +65,17 @@ Route::get('/cewebaju', function () {
     ]);
 });
 
+Route::get('/celanawanita', function () {
+    return view('celanawanita', [
+        "title" => "Celana"
+    ]);
+});
+Route::get('/sepatuwanita', function () {
+    return view('sepatuwanita', [
+        "title" => "Sepatu"
+    ]);
+});
+
 
 Route::get('/posts', [PostController::class, 'index']);
 

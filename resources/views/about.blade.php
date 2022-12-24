@@ -31,21 +31,21 @@
       <div class="col-lg-3">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2 class="fw-normal">Abizar Valentino F <br><small>203040081</small></h2>
+        <h2 class="fw-normal">Abizar Valentino F <br><small>203040086</small></h2>
         <a href="https://github.com/abizar241201" style="text-decoration: none"><i class="bi bi-github" style="color: black" ></i></a>   
         <a href="https://www.instagram.com/abivale.e/" style="text-decoration: none" ><i class="bi bi-instagram" style="color:#000000"></i></a>
       </div>
       <div class="col-lg-3">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2 class="fw-normal">Yoghi Prasetiyo <br><small>203040081</small></h2> 
+        <h2 class="fw-normal">Yoghi Prasetyo <br><small>203040081</small></h2> 
           <a href="https://github.com/yghpras" style="text-decoration: none"><i class="bi bi-github" style="color: black" ></i></a>   
           <a href="https://www.instagram.com/yghpras/" style="text-decoration: none" ><i class="bi bi-instagram" style="color:#000000"></i></a>
       </div>
       <div class="col-lg-3">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2 class="fw-normal">Nadia <br><small>203040081</small></h2>
+        <h2 class="fw-normal">Nadia Nur Anisa<br><small>203040107</small></h2>
         <a href="https://github.com/nadianuan" style="text-decoration: none"><i class="bi bi-github" style="color: black" ></i></a>   
           <a href="https://www.instagram.com/nadianuan/" style="text-decoration: none" ><i class="bi bi-instagram" style="color:#000000"></i></a>
         
@@ -53,7 +53,7 @@
       <div class="col-lg-3">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2 class="fw-normal">M.faisal <br><small>203040081</small></h2>
+        <h2 class="fw-normal">M.Faishal Abriansyah <br><small>203040116</small></h2>
         <a href="https://github.com/FaishalAbriansyah" style="text-decoration: none"><i class="bi bi-github" style="color: black" ></i></a>   
           <a href="https://www.instagram.com/faishalabriansyah_/" style="text-decoration: none" ><i class="bi bi-instagram" style="color:#000000"></i></a>
 
