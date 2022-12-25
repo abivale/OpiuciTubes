@@ -9,19 +9,19 @@
         @csrf
         <div class="form-floating">
           <input type="text" name="name" class="form-control rounded-top" id="name" placeholder="Name">
-          <label for="name">Name</label>
+          <label for="name" class="text-black">Name</label>
         </div>
         <div class="form-floating">
           <input type="text" name="username" class="form-control" id="username" placeholder="Username">
-          <label for="username">Username</label>
+          <label for="username" class="text-black">Username</label>
         </div>
         <div class="form-floating">
           <input type="email" name="email" class="form-control" id="email" placeholder="name@example.com">
-          <label for="email">Email address</label>
+          <label for="email" class="text-black">Email address</label>
         </div>
         <div class="form-floating">
           <input type="password" name="password" class="form-control rounded-bottom" id="password" placeholder="Password">
-          <label for="password">Password</label>
+          <label for="password" class="text-black">Password</label>
         </div>
     
         <button class="w-100 btn btn-lg btn-dark mt-2" type="submit">Daftar </button>
