@@ -82,15 +82,15 @@
       <h1 class="text-center mb-4">Contact Us</h1>
       <div class="col-md-5 col-sm-12">
           <div class="card text-dark bg-light mb-3">
-              <div class="card-header text-center">Contact</div>
+              <div class="card-header text-center text-black">Contact</div>
               <div class="card-body">
-                  <p class="card-text">
+                  <p class="card-text text-black">
                       If you have any questions, please send them via the form
                       below. We will try to answer your questions.
                   </p>
               </div>
           </div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.2015785999074!2d107.59059581487186!3d-6.866431369089696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e6be3e8a0c49%3A0x730028bf4627def4!2sUniversitas%20Pasundan!5e0!3m2!1sen!2sid!4v1639199288259!5m2!1sen!2sid" width="520" height="305" style="border: 0" allowfullscreen="" loading="lazy" class="d-none d-md-block"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.2015785999074!2d107.59059581487186!3d-6.866431369089696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e6be3e8a0c49%3A0x730028bf4627def4!2sUniversitas%20Pasundan!5e0!3m2!1sen!2sid!4v1639199288259!5m2!1sen!2sid" width="515" height="310" style="border: 0" allowfullscreen="" loading="lazy" class="d-none d-md-block"></iframe>
       </div>
       <div class="col-md-5">
           <form action="https://formsubmit.co/gdriveegi@gmail.com" method="POST">
