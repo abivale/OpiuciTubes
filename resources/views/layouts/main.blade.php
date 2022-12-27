@@ -27,13 +27,13 @@
   </head>
   <body>
     
-    @include('partials.navbar');
+    @include('partials.navbar')
       
     <div class="container">
         @yield('container')
     </div> 
 
-    @include('partials.footer');
+    @include('partials.footer')
 
     {{-- dark mode --}}
     <script src="js/switch.js"></script>
