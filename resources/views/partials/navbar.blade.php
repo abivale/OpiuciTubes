@@ -9,17 +9,8 @@
     
           <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
             <li><a href="/" class="nav-link px-2 text-white">Home</a></li>
+            <li><a href="/category" class="nav-link px-2 text-white">Category</a></li>
             
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle px2 text-white" href="/" role="button" data-bs-toggle="dropdown">
-                Category
-              </a>
-              <ul class="dropdown-menu bg-drack">
-                <li><a class="dropdown-item text-black" href="/wanita">Women</a></li>
-                <li><a class="dropdown-item text-black" href="/pria">Men</a></li>
-                <li><a class="dropdown-item text-black" href="/anak">Kids</a></li>
-              </ul>
-            </li>
             <li><a href="/about" class="nav-link px-2 text-white">About</a></li>
           </ul>
          

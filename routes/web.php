@@ -4,6 +4,7 @@ use App\Models\Post;
 use App\Models\User;
 
 
+use App\Models\Category;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\RegisterController;
@@ -23,7 +24,7 @@ use App\Http\Controllers\DashboardPostController;
 
 Route::get('/', function () {
     return view('home', [
-        "title" => "Home & Lifestyle",
+        "title" => "home",
         "posts" => Post::all()
     ]);
 });
@@ -34,46 +35,32 @@ Route::get('/about', function () {
     ]);
 });
 
-Route::get('/gender', function () {
-    return view('gender', [
-        "title" => "Gender"
+Route::get('/category', function () {
+    return view('category', [
+        'title' => 'Post Categories',
+        'active' => 'categories',
+        'categories' => Category::all()
     ]);
 });
 
-Route::get('/pria', function () {
-    return view('pria', [
-        "title" => "Pria"
-    ]);
-});
 
-Route::get('/wanita', function () {
-    return view('wanita', [
-        "title" => "Wanita"
-    ]);
-});
 
-Route::get('/anak', function () {
-    return view('anak', [
-        "title" => "Kids"
-    ]);
-});
+// Route::get('/wanita', function () {
+//     return view('wanita', [
+//         "title" => "Waita"
+//     ]);
+// });
 
-Route::get('/cewebaju', function () {
-    return view('cewebaju', [
-        "title" => "Baju"
-    ]);
-});
-
-Route::get('/celanawanita', function () {
-    return view('celanawanita', [
-        "title" => "Celana"
-    ]);
-});
-Route::get('/sepatuwanita', function () {
-    return view('sepatuwanita', [
-        "title" => "Sepatu"
-    ]);
-});
+// Route::get('/pria', function () {
+//     return view('pria', [
+//         "title" => "Pria"
+//     ]);
+// });
+// Route::get('/anak', function () {
+//     return view('anak', [
+//         "title" => "Anak"
+//     ]);
+// });
 
 
 
