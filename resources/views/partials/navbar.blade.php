@@ -26,12 +26,30 @@
           <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
             <input type="search" class="form-control form-control-dark text-bg-dark" placeholder="Search..." aria-label="Search">
           </form>
-    
+          
+          @auth
+          <li class="nav-item dropdown row">
+            <a class="nav-link dropdown-toggle px2 text-white" href="/" role="button" data-bs-toggle="dropdown">
+              Welcome Back {{ auth()->user()->name }}
+            </a>
+            <ul class="dropdown-menu bg-drack">
+              <li><a class="dropdown-item text-black" href="/dashboard"><i class="bi bi-layout-text-window-reverse"></i> My Dashboard</a></li>
+              <li>
+                 <form action="/logout" method="post">
+                  @csrf
+                  <button type="submit" class="dropdown-item text-black"><i class="bi bi-box-arrow-in-right"></i> Logout</a></button>
+                 </form>
+              </li>
+            </ul>
+          </li>
+          @else
           <div class="text-end">
             <a href="/login"><button type="button" class="btn btn-outline-light me-2">Login</button></a>
             <a href="/register"><button type="button" class="btn btn-warning">Buat Akun</button></a>
             
           </div>
+          @endauth
+          
         </div>
       </div>
     </header>
