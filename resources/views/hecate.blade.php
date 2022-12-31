@@ -2,7 +2,7 @@
 
 @section('container')
 <p></p>
-<h2>Shop Women's</h2>
+<h2>Hecate</h2>
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
     <div class="col">
       <div class="card shadow-sm">
