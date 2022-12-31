@@ -45,22 +45,22 @@ Route::get('/category', function () {
 
 
 
-// Route::get('/wanita', function () {
-//     return view('wanita', [
-//         "title" => "Waita"
-//     ]);
-// });
+Route::get('/erigo', function () {
+    return view('erigo', [
+        "title" => "Erigo"
+    ]);
+});
 
-// Route::get('/pria', function () {
-//     return view('pria', [
-//         "title" => "Pria"
-//     ]);
-// });
-// Route::get('/anak', function () {
-//     return view('anak', [
-//         "title" => "Anak"
-//     ]);
-// });
+Route::get('/hecate', function () {
+    return view('hecate', [
+        "title" => "Hecate"
+    ]);
+});
+Route::get('/ventela', function () {
+    return view('ventela', [
+        "title" => "Ventela"
+    ]);
+});
 
 
 

@@ -7,30 +7,33 @@
     <div class="row">
       <div class="card-group">
         <div class="col-md-4 col-sm-12 mb-5">
-          <div class="card">
-            <img src="img/hacate.png" class="card-img-top" alt="...">
-            <div class="card-img-overlay text-uppercase text-white font-weight-bolder mt-5">
-              <h4 class="card-title">Hecate</h4>
-              <a href="/pria"><button type="button" class="btn btn-outline-light me-2">Selengkapnya</button></a>
+          <div class="card"> 
+            <a href="/hecate">
+            <img src="img/hacate.png" class="card-img-top">
+            <div class="card-img-overlay text-white d-flex align-items-center p-0">
+              <h4 class="card-title text-center flex-fill p-2" style="background-color: rgba(0, 0, 0, 0.485)"> Hecate</h4>
             </div>
+          </a>
           </div>
         </div>
         <div class="col-md-4 col-sm-12 mb-5">
           <div class="card">
-            <img src="img/yyy.jpg" class="card-img-top" alt="...">
-            <div class="card-img-overlay text-uppercase text-white font-weight-bolder mt-5">
-              <h4 class="card-title">Wanita</h4>
-              <a href="wanita"><button type="button" class="btn btn-outline-light me-2">Selengkapnya</button></a>
+            <a href="/ventela">
+            <img src="img/ventela.jpeg" class="card-img-top">
+            <div class="card-img-overlay text-white d-flex align-items-center p-0">
+              <h4 class="card-title text-center flex-fill p-2" style="background-color: rgba(0, 0, 0, 0.485)">Ventela</h4>
             </div>
+          </a>
           </div>
         </div>
         <div class="col-md-4 col-sm-12 mb-5">
           <div class="card">
-            <img src="img/yyy.jpg" class="card-img-top" alt="...">
-            <div class="card-img-overlay text-uppercase text-white font-weight-bolder mt-5">
-              <h4 class="card-title">Anak</h4>
-              <a href="anak"><button type="button" class="btn btn-outline-light me-2">Selengkapnya</button></a>
+            <a href="/erigo">
+            <img src="img/erigo.jpeg" class="card-img-top">
+            <div class="card-img-overlay text-white d-flex align-items-center p-0 fs-4">
+              <h4 class="card-title text-center flex-fill p-2" style="background-color: rgba(0, 0, 0, 0.485)">Erigo</h4>
             </div>
+          </a>
           </div>
           </div>
         </div>

@@ -2,8 +2,6 @@
 
 @section('container')
 
-<p>
-
 <div class="row featurette">
   <div class="col-md-7 order-md-2 mt-2">
     <h2 class="featurette-heading fw-normal lh-1"> <span class="text-muted">Selamat Datang Di</span> OPIUCI</h2>
@@ -16,16 +14,8 @@
  
 <H1 class="row justify-content-center">Our Team</H1>
 <main>
-
-
-
-  <!-- Marketing messaging and featurettes
-  ================================================== -->
-  <!-- Wrap the rest of the page in another container to center all the content. -->
-
   <div class="container marketing">
 
-    <!-- Three columns of text below the carousel -->
     <div class="row">
       <div class="col-lg-3">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
@@ -52,25 +42,9 @@
       <div class="col-lg-3">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2 class="fw-normal">M.Faishal Abriansyah <br><small>203040116</small></h2>
+        <h2 class="fw-normal">M.Faishal Abriansyah S <br><small>203040116</small></h2>
         <a href="https://github.com/FaishalAbriansyah" style="text-decoration: none"><i class="bi bi-github" style="color: black" ></i></a>   
           <a href="https://www.instagram.com/faishalabriansyah_/" style="text-decoration: none" ><i class="bi bi-instagram" style="color:#000000"></i></a>
-
-      </div>
-    </div><!-- /.row -->
-
-
-    <!-- START THE FEATURETTES -->
-
-    <hr class="featurette-divider">
-
-    <div class="row featurette">
-      <div class="col-md-7">
-        <h2 class="featurette-heading fw-normal lh-1">First featurette heading. <span class="text-muted">It’ll blow your mind.</span></h2>
-        <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
-      </div>
-      <div class="col-md-5">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
 
       </div>
     </div>
@@ -113,11 +87,8 @@
               <button type="submit" class="btn btn-primary mt-3">Submit</button>
           </form>
       </div>
+   </div>
   </div>
-    
-    <!-- /END THE FEATURETTES -->
-
-  </div><!-- /.container -->
 </main>
 
 
