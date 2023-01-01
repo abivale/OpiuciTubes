@@ -7,4 +7,4 @@
     <h1 class="h2">Welcome Back In Dashboard, {{ auth()->user()->name }}</h1>
   </div>
     
-@endsection
+@endsection 
