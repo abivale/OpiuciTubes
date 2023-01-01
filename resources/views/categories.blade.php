@@ -1,8 +1,8 @@
 @extends('layouts.main')
 
 @section('container')
-  <h1 class="mb-5">All Categories </h1>
-
+  <h1 class="mb-5">Semua Categories </h1>
+<div class="footer">
   <div class="container">
     <div class="row">
       @foreach ($categories as $category)
@@ -19,6 +19,8 @@
       @endforeach
     </div>
   </div>
+</div>
+  
   
 
 @endsection
