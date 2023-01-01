@@ -43,7 +43,6 @@
           </li>
           @endauth
         </ul>
-      
 
     </div>
   </div>

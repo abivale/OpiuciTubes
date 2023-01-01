@@ -2,7 +2,7 @@
 
 @section('container')
 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-  <h1 class="h2">Create new post</h1>
+  <h1 class="h2">Create new post product</h1>
 </div>
 
 <div class="col-lg-8">
@@ -19,7 +19,7 @@
     </div>
     <div class="mb-3">
       <label for="harga" class="form-label">Harga</label>
-      <input type="text" class="form-control @error('harga') is-invalid @enderror" id="harga" name="harga" required autofocus value="{{ old('harga') }}">
+      <input type="number" class="form-control @error('harga') is-invalid @enderror" id="harga" name="harga" required autofocus value="{{ old('harga') }}">
       @error('harga')
         <div class="invalid-feedback">
           {{ $message }}
