@@ -8,7 +8,7 @@
           </a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="/dashboard/post">
+          <a class="nav-link" href="/dashboard/posts">
             <span data-feather="file-text" class="align-text-bottom"></span>
             My Post Product
           </a>
