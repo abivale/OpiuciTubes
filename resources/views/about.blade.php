@@ -18,14 +18,14 @@
 
     <div class="row">
       <div class="col-lg-3">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+        <img src="img/bizer.jpg" class="bd-placeholder-img rounded-circle" width="140" height="140">
 
         <h2 class="fw-normal">Abizar Valentino F <br><small>203040086</small></h2>
         <a href="https://github.com/abizar241201" style="text-decoration: none"><i class="bi bi-github" style="color: black" ></i></a>   
         <a href="https://www.instagram.com/abivale.e/" style="text-decoration: none" ><i class="bi bi-instagram" style="color:#000000"></i></a>
       </div>
       <div class="col-lg-3">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+        <img src="img/yoghi.jpg" class="bd-placeholder-img rounded-circle" width="140" height="140">
 
         <h2 class="fw-normal">Yoghi Prasetyo <br><small>203040081</small></h2> 
           <a href="https://github.com/yghpras" style="text-decoration: none"><i class="bi bi-github" style="color: black" ></i></a>   

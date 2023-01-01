@@ -43,11 +43,11 @@
 
 
 <h1 class="row justify-content-center py-3">End Of Season Sale</h1>
-<a href="/wanita" style="color:aliceblue">
+<a href="/ventela" style="color:aliceblue">
   <div class="card bg-drak text-white">
 	  <img src="img/yyy.jpg" class="card-img-top" alt="...">
 	  <div class="card-img-overlay d-flex align-items-center p-0 ">
-		<div class="card-title text-center flex-fill p-4 fs-6" style="background-color: rgba(0,0,0,0.7)"><h1>Sepatu Wanita</h1>
+		<div class="card-title text-center flex-fill p-4 fs-6" style="background-color: rgba(0,0,0,0.7)"><h1>Sepatu</h1>
       <p>Year End Deals Up to 30% of</p>
     </div>
   </div>
@@ -55,93 +55,41 @@
  
 </div>
 <p>
-    <h1>Everything for clothes</h1>
+    <h1>All Brands </h1>
     <div class="row">
  
       <div class="col-md-4 col-sm-12 mb-3">
         <div class="card">
-          <img src="img/yyy.jpg" class="card-img-top" alt="...">
+          <img src="img/hacate.png" class="card-img-top" alt="...">
      
           <div class="card-body">
-            <a href="wanita" style="background-color: black" class="btn btn-secondary btn-block">Shop Wnomen's</a>
+            <a href="hecate" style="background-color: black" class="btn btn-secondary btn-block">Hecate</a>
           </div>
         </div>
       </div>
       <div class="col-md-4 col-sm-6 mb-3">
         <div class="card">
-          <img src="img/yyy.jpg" class="card-img-top" alt="...">
+          <img src="img/ventela.jpeg" class="card-img-top" alt="...">
      
           <div class="card-body">
-            <a href="pria" style="background-color: black" class="btn btn-secondary btn-block">Shop Men's</a>
+            <a href="ventela" style="background-color: black" class="btn btn-secondary btn-block">Ventela</a>
           </div>
         </div>
       </div>
      
       <div class="col-md-4 col-sm-6 mb-3">
         <div class="card">
-          <img src="img/yyy.jpg" class="card-img-top" alt="...">
+          <img src="img/erigo.jpeg" class="card-img-top" alt="...">
      
           <div class="card-body">
-            <a href="anak" style="background-color: black" class="btn btn-secondary btn-block">Shop Kids'</a>
+            <a href="erigo" style="background-color: black" class="btn btn-secondary btn-block">Erigo</a>
           </div>
         </div>
       </div>
     
     </div>
 
-    <h1 class="row justify-content-center">Featured Brands</h1>
-    <p class="row justify-content-center">Pilihan Brand Terbaik Dengan Penawaran Spesial</p>
-
-    <div class="row row-cols-1 row-cols-md-2 g-4">
-      <div class="col-md-2">
-        <div class="card">
-          <img src="img/yyy.jpg" class="card-img-top" alt="...">
-          <div class="card-body text-center">
-            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">NIKE <br> Up to 50%</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2">
-        <div class="card">
-          <img src="img/yyy.jpg" class="card-img-top" alt="...">
-          <div class="card-body text-center">
-            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">Adidas <br> Up to 50%</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2">
-        <div class="card">
-          <img src="img/yyy.jpg" class="card-img-top" alt="...">
-          <div class="card-body text-center">
-            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">NIKE <br> Up to 50%</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2">
-        <div class="card">
-          <img src="img/yyy.jpg" class="card-img-top" alt="...">
-          <div class="card-body text-center">
-            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">NIKE <br> Up to 50%</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2">
-        <div class="card">
-          <img src="img/yyy.jpg" class="card-img-top" alt="...">
-          <div class="card-body text-center">
-            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">NIKE <br> Up to 50%</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-2">
-        <div class="card">
-          <img src="img/yyy.jpg" class="card-img-top" alt="...">
-          <div class="card-body text-center">
-            <a href="#" style="background-color: black" class="btn btn-secondary btn-block">NIKE <br> Up to 50%</a>
-          </div>
-        </div>
-      </div>
-    </div>
+  
 
     
   </div>
