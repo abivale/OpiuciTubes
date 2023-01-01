@@ -37,6 +37,13 @@ Route::get('/about', function () {
     ]);
 }); 
 
+Route::get('/posts/checkout', function () {
+    return view('checkout', [
+        "title" => "checkout",
+        "active" => "checkout"
+
+    ]);
+}); 
 
 
 Route::get('/posts', [PostController::class, 'index']);

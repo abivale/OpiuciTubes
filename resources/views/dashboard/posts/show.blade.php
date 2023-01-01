@@ -25,6 +25,7 @@
 
 
             <article class="my-3 fs-5">
+              {!! $post->harga !!}
               {!! $post->body !!}
             </article>
       </div>
