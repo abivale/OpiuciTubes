@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-// use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use App\Models\User;
 use App\Models\Category;
@@ -26,7 +26,7 @@ class DatabaseSeeder extends Seeder
         //     'password' => bcrypt('12345')
         // ]);
 
-        // User::factory(3)->create();
+        User::factory(3)->create();
 
         Category::create([
             'name' => 'Hecate',
@@ -43,6 +43,6 @@ class DatabaseSeeder extends Seeder
             'slug' => 'erigo'
         ]);
 
-        // Post::factory(20)->create();
+        Post::factory(20)->create();
     }
 }

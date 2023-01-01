@@ -19,6 +19,7 @@ class PostFactory extends Factory
   {
     return [
       'title' => fake()->sentence(mt_rand(2, 8)),
+      'title' => fake()->harga(),
       'slug' => fake()->slug(),
       'excerpt' => fake()->paragraph(),
       // 'body' => '<p>' . implode('</p><p>'fake()->paragraphs(mt_rand(5,10))) . '</p>' ,
