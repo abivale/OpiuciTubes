@@ -9,6 +9,7 @@
 
 
   <div class="table-responsive">
+    <a href="/dashboard/posts/create">Create new post</a>
     <table class="table table-striped table-sm">
       <thead>
         <tr>
