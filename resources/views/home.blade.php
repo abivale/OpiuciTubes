@@ -1,7 +1,8 @@
 @extends('layouts.main')
 
 @section('container')
-
+<p>
+  <h2 class="mb-3 text-center">Selamat Datang Di Online Shop Opiuci</h2>
 <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -41,56 +42,8 @@
   </button>
 </div>
 
-
-<h1 class="row justify-content-center py-3">End Of Season Sale</h1>
-<a href="/ventela" style="color:aliceblue">
-  <div class="card bg-drak text-white">
-	  <img src="img/yyy.jpg" class="card-img-top" alt="...">
-	  <div class="card-img-overlay d-flex align-items-center p-0 ">
-		<div class="card-title text-center flex-fill p-4 fs-6" style="background-color: rgba(0,0,0,0.7)"><h1>Sepatu</h1>
-      <p>Year End Deals Up to 30% of</p>
-    </div>
-  </div>
-</a>
  
 </div>
-<p>
-    <h1>All Brands </h1>
-    <div class="row">
- 
-      <div class="col-md-4 col-sm-12 mb-3">
-        <div class="card">
-          <img src="img/hacate.png" class="card-img-top" alt="...">
-     
-          <div class="card-body">
-            <a href="hecate" style="background-color: black" class="btn btn-secondary btn-block">Hecate</a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4 col-sm-6 mb-3">
-        <div class="card">
-          <img src="img/ventela.jpeg" class="card-img-top" alt="...">
-     
-          <div class="card-body">
-            <a href="ventela" style="background-color: black" class="btn btn-secondary btn-block">Ventela</a>
-          </div>
-        </div>
-      </div>
-     
-      <div class="col-md-4 col-sm-6 mb-3">
-        <div class="card">
-          <img src="img/erigo.jpeg" class="card-img-top" alt="...">
-     
-          <div class="card-body">
-            <a href="erigo" style="background-color: black" class="btn btn-secondary btn-block">Erigo</a>
-          </div>
-        </div>
-      </div>
-    
-    </div>
-
-  
-
     
   </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha383-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
