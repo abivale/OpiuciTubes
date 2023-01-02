@@ -27,7 +27,7 @@
     @if ($posts->count())
       <div class="card mb-3">
         @if ($posts[0]->image)
-          <div style="max-height: 400px; overflow:hidden;">
+          <div style="max-height: 600px; overflow:hidden;" align="center">
             <img src="{{ asset('storage/' . $posts[0]->image) }}" alt="{{ $posts[0]->category->name }}" class="img-fluid">
           </div>
         @else
@@ -62,7 +62,7 @@
                 <h5 class="card-title">{{ $post->title }}</h5>
                   
                 <p class="card-text">{{ $post->excerpt }}</p>
-                <p class="card-number">Rp. {{ $post->harga }}</p>
+                <p class="card-number">Rp.{{ $post->harga }}</p>
                 <a href="/posts/{{ $post->slug }}" class="btn btn-primary">Read more</a>
               </div>
             </div>
