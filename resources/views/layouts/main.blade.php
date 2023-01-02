@@ -14,6 +14,9 @@
       crossorigin="anonymous"
     />
 
+    {{-- icon-web --}}
+    <link rel="icon" type="image/x-icon" href="/images/logo.webp">
+
     {{-- Boostrap Icons --}}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
 

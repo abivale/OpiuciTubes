@@ -28,13 +28,30 @@
 }
 
 .footer-produk {
-    margin-bottom: 290px;
+    margin-bottom: 30px;
 }
 
 .footer-login {
-    margin-bottom: 200px;
+    margin-bottom: 230px;
 }
 
 .footer-regis {
     margin-bottom: 130px;
+}
+
+.footer-categories {
+    margin-bottom: 157px;
+}
+
+.navbar-brand {
+    
+        position: relative;
+        background: url(/img/logo2.png);
+        width: 80px;
+        height: 75px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    
+    
 }
