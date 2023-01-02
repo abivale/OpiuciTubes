@@ -8,7 +8,7 @@
           <h1 class="mb-3">{{ $post->category->name }}</h1>
 
             @if ($post->image)
-              <div style="max-height: 350px; overflow:hidden;">
+              <div style="max-height: 600px; overflow:hidden;" align="center">
                 <img src="{{ asset('storage/' . $post->image) }}" alt="{{ $post->category->name }}" class="img-fluid">
               </div>
           @else

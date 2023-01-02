@@ -48,7 +48,7 @@ class DashboardPostController extends Controller
             'harga' => 'required' ,
             'slug' => 'required|unique:posts',
             'category_id' => 'required',
-            'image' => 'image|file|max:1024',
+            'image' => 'image|nullable|max:1999',
             'body' => 'required'
         ]);
 
@@ -104,7 +104,7 @@ class DashboardPostController extends Controller
             'title' => 'required|max:255',
             'harga' => 'required',
             'category_id' => 'required',
-            'image' => 'image|file|max:1024',
+            'image' => 'image|nullable|max:1999',
             'body' => 'required'
         ];
 
