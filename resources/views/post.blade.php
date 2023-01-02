@@ -17,7 +17,7 @@
           <p>By. <a href="/posts?author={{ $post->author->username }}" class="text-decoration-none">{{ $post->author->name }}</a> in <a href="/posts?category={{ $post->category->slug }}" class="text-decoration-none">{{ $post->category->name }}</a></p>
 
             <article class="my-2 fs-2">
-              <h2>{!! $post->body !!}</h2>
+              <p><small>{!! $post->body !!}</small></p>
               
               <a class="btn btn-dark" href="checkout" role="button">Checkout Rp. {!! $post->harga !!}</a>
             </article>
