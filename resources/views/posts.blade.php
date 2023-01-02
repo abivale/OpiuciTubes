@@ -1,7 +1,8 @@
 @extends('layouts.main')
 
 @section('container')
-  <h1 class="mb-3 text-center">{{ $title }}</h1>
+<p>
+  <h1 class="mb-3 text-center"><strong>{{ $title }}</strong></h1>
 
   <div class="footer-produk">
     <div class="row justify-content-center mb-3">
@@ -15,7 +16,7 @@
           @endif
           <div class="input-group mb-3">
             <input type="text" class="form-control" placeholder="Search.." name="search" value="{{ request('search') }}">
-            <button class="btn btn-danger" type="submit">Search</button>
+            <button class="btn btn-dark" type="submit">Cari</button>
           </div>
         </form>
       </div>
@@ -37,9 +38,9 @@
           <div class="card-body text-center">
             <h2 class="card-title"><a href="/posts/{{ $posts[0]->slug }}"class="text-decoration-none text-dark">{{ $posts[0]->title }}</a></h2>
             <p class="card-text">{{ $posts[0]->excerpt }}</p>
-            <p class="card-number">Rp. {{ $posts[0]->harga }}</p>
+            <h5 class="card-number">Rp. {{ $posts[0]->harga }}</h5>
             
-            <a href="/posts/{{ $posts[0]->slug }}" class="text-decoration-none btn btn-primary">Read more</a>
+            <a href="/posts/{{ $posts[0]->slug }}" class="text-decoration-none btn btn-dark">Selengkapnya</a>
   
   
         </div>
@@ -62,8 +63,10 @@
                 <h5 class="card-title">{{ $post->title }}</h5>
                   
                 <p class="card-text">{{ $post->excerpt }}</p>
-                <p class="card-number">Rp.{{ $post->harga }}</p>
-                <a href="/posts/{{ $post->slug }}" class="btn btn-primary">Read more</a>
+
+                <h5 class="card-number">Rp. {{ $post->harga }}</h5>
+                <a href="/posts/{{ $post->slug }}" class="btn btn-dark">Selengkapnya</a>
+
               </div>
             </div>
         </div>
@@ -72,12 +75,11 @@
     </div>
     
     @else
-        <p class="text-center fs-4">No post Found.</p>
+        <p class="text-center fs-4">Tidak ada post produk</p>
     @endif
+
+    <a class="btn btn-dark d-block mt-3" href="/" role="button">Back to Home</a>
   
-    {{-- <div class="d-flex justify-content-end">
-      {{ $posts->links() }}
-    </div> --}}
   </div>
  
 

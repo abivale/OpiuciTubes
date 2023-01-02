@@ -4,11 +4,12 @@
 
 <div class="row featurette">
   <div class="col-md-7 order-md-2 mt-2">
+    <br><br><br><br><br><br><br>
     <h2 class="featurette-heading fw-normal lh-1"> <span class="text-muted">Selamat Datang Di</span> OPIUCI</h2>
-    <p class="lead">Sebagai Pusat Fashion Online di Asia, kami menciptakan kemungkinan-kemungkinan gaya tanpa batas dengan cara memperluas jangkauan produk, mulai dari produk internasional hingga produk lokal dambaan. Kami menjadikan Anda sebagai pusatnya</p>
+    <p class="lead">Sebagai Pusat Fashion Online, kami menciptakan kemungkinan-kemungkinan gaya tanpa batas dengan cara memperluas jangkauan produk local Indonesia.</p>
   </div>
   <div class="col-md-5 order-md-1">
-    <img src="img/opiuci.png" alt="" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto">
+    <img src="img/logo.png" alt="" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto">
   </div>
 </div>
  
