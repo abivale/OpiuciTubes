@@ -51,6 +51,47 @@
     </div>
 </div>
 
+<p>
+
+ <h1 class="mb-3 text-center"><strong style="color: black">Semua Categories</strong></h1> 
+
+    <div class="row">
+      <div class="col-md-4">
+        <a href="/posts?category=erigo">
+        <div class="card text-bg-dark">
+          <img src="img/logoErigo.jpg" class="card-img">
+            <div class="card-img-overlay d-flex align-items-center p-0">
+              <h5 class="card-title text-center flex-fill p-4 fs-3" style="background-color: rgba(0, 0, 0, 0.7)">Erigo</h5>
+            </div>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-4"> 
+        <a href="/posts?category=hecate">
+          <div class="card text-bg-dark">
+            <img src="img/logoHecate.png" class="card-img">
+              <div class="card-img-overlay d-flex align-items-center p-0">
+                <h5 class="card-title text-center flex-fill p-4 fs-3" style="background-color: rgba(0, 0, 0, 0.7)">Hecate</h5>
+              </div>
+            </div>
+          </a>
+
+      </div>
+       
+      <div class="col-md-4">
+        <a href="/posts?category=ventela">
+          <div class="card text-bg-dark">
+            <img src="img/logoVentelaaa.jpg" class="card-img">
+              <div class="card-img-overlay d-flex align-items-center p-0">
+                <h5 class="card-title text-center flex-fill p-4 fs-3" style="background-color: rgba(0, 0, 0, 0.7)">Ventela</h5>
+              </div>
+            </div>
+          </a>
+      </div>
+    </div>
+
+
     <script src="js/slider.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha383-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 
