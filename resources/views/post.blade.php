@@ -22,7 +22,7 @@
               <a class="btn btn-dark" href="checkout" role="button">Checkout Rp. {!! $post->harga !!}</a>
             </article>
 
-            <a class="btn btn-primary d-block mt-3" href="/posts" role="button">Back to Posts</a>
+            <a class="btn btn-dark d-block mt-3" href="/posts" role="button">Back to Posts</a>
 
       </div>
     </div>
