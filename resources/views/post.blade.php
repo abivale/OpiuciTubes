@@ -1,14 +1,14 @@
 @extends('layouts.main')
 
 @section('container')
-
+<div class="footer-post">
   <div class="container">
     <div class="row justify-content-center mb-5">
       <div class="col-md-8">
         <p>
           <h1 class="mb-3 text-center"><Strong>{{ $post->category->name }}</Strong></h1>
             @if ($post->image)
-              <div style="max-height: 600px; overflow:hidden;" align="center">
+              <div style="max-height: 1000px; overflow:hidden;" align="center">
                 <img src="{{ asset('storage/' . $post->image) }}" alt="{{ $post->category->name }}" class="img-fluid">
               </div>
           @else
@@ -27,6 +27,7 @@
       </div>
     </div>
   </div>
+</div>
 
 
   
