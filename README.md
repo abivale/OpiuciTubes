@@ -2,6 +2,7 @@
 Nama Anggota :
 - Abizar Valentino Fachri - 203040086 [@abizar](https://github.com/abizar241201).
 - Yoghi Prasetiyo - 203040081 [@yghpras](https://github.com/yghpras).
+- Nadia Nur Anisa - 203040107  [@nadianuan](https://github.com/nadianuan).
 
 ## Tema kami
 - Opiuci. Online Shop Brand Clothing Lokal
